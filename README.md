@@ -26,7 +26,6 @@
 </div>
 
 
-![snake gif](https://github.com/alexandra86/alexandra86/blob/output/github-contribution-grid-snake.svg)
 <!--
 **alexandra86/alexandra86** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
