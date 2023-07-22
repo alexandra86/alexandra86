@@ -1,7 +1,6 @@
 ### Olá! Me chamo Alexandra Miranda! 👋
 
-- 👩🏽‍💻 Desenvolvedora Web Front End
-- 👩🏻‍🎓 Estudante em formação em Desenvolvimento Web Back End
+- 👩🏽‍💻 Desenvolvedora Web Full Stack
 - 😉 Pronome: ela/dela
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexandra86&show_icons=true&theme=dracula)
