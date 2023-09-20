@@ -36,7 +36,7 @@
   ##
 
   ### Soft Skills
-  <p size="16px" align="justify"><b>Trabalho em equipe, comunicação, foco e empatia</p> 
+  <p size="16px" align="justify"><b>Trabalho em equipe, comunicação, foco e empatia.</p> 
   
   ##
 
