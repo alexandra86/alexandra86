@@ -10,7 +10,25 @@
 ##
 
 ### Sobre mim!😉
-<p size="16px" align="justify"><b>Sou formada em Desenvolvimento Web Full Stack, pela Kenzie Academy Brasil. Também faço curso superior em Análise e Desenvolvimento de Sistemas (EAD), na Gran Faculdade, com previsão de formatura para 2025.</p>  
+<p size="16px" align="justify"><b>Possuo formação técnica como Desenvolvedora Web Full Stack e atualmente faço faculdade de Análise e Desenvolvimento de Sistemas.
+
+Síntese de Qualificações: 
+
+✅Possuo vivência em utilização de Metodologias Ágeis, com Scrum, Trello, Jira;
+
+✅Experiência na construção de projetos, utilizando tecnologias como: HTML, CSS, JavaScript, TypeScript, Node.Js, Python, React, Express, C#, NET;
+
+✅Experiência com ferramentas de revisão de códigos, como o GitHub;
+
+✅Familiaridade com conceitos de UX, uso de bibliotecas de componentes, consumo de APIs;
+
+✅Atuação no desenvolvimento de apps, utilizando bancos de dados relacionais, como PostgreSQL, SQL, com o uso de TypeORM;
+
+✅Noções de PHP e WordPress;
+
+✅Possuo inglês, nível básico;
+
+✅Experiência com atendimento ao Cliente e rotinas administrativas.</p>  
   
 ##
 
