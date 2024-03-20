@@ -10,9 +10,9 @@
 ##
 
 ### Sobre mim!😉
-<p size="16px" align="justify"><b>Possuo formação técnica como Desenvolvedora Web Full Stack e atualmente faço faculdade de Análise e Desenvolvimento de Sistemas.
+<p size="16px" align="justify"><b>Possuo formação técnica como Desenvolvedora Web Full Stack e atualmente faço faculdade de Análise e Desenvolvimento de Sistemas. Sempre gostei de tecnologia e decidi fazer migração de carreira para a programação, pois desejo unir minha paixão com criação de soluções lógicas, que venham contribuir para o desenvolvimento de toda a sociedade! 😉
 
-Síntese de Qualificações: 
+<br>Síntese de Qualificações: 
 
 ✅Possuo vivência em utilização de Metodologias Ágeis, com Scrum, Trello, Jira;
 
