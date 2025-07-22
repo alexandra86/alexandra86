@@ -16,7 +16,7 @@
 
 ✅Possuo vivência em utilização de Metodologias Ágeis, com Scrum, Trello, Jira;
 
-✅Experiência na construção de projetos, utilizando tecnologias como: HTML, CSS, JavaScript, TypeScript, Node.Js, Python, React, Express, C#, NET;
+✅Experiência na construção de projetos, utilizando tecnologias como: HTML, CSS, JavaScript, TypeScript, Node.Js, Python, React, Express;
 
 ✅Experiência com ferramentas de revisão de códigos, como o GitHub;
 
