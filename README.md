@@ -49,14 +49,8 @@
  <a href="https://www.linkedin.com/in/alexandra-miranda86/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://portfolio-alexandra86.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/-Portfólio-005C53?style=for-the-badge&&logoColor=white" target="_blank"></a> 
 </div>
-
-<div align="center">
-  <p align="centre"><b>Visitors Count</p>  
-  <p align="center"><img align="center" src="https://profile-counter.glitch.me/{alexandra86}/count.svg" /></p> 
-</div>
 ---
-<!--
-**alexandra86/alexandra86** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 
 
